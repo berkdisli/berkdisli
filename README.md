@@ -5,12 +5,6 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<div align="center">
-  <a href="https://github.com/berkdisli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmingsdm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmingsdm&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 [My Portfolio](https://berkdisli.github.io/react-portfolio/)
 
   <a href = "mailto:berkdisli@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
