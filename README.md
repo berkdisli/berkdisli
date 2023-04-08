@@ -17,8 +17,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 
-[My Portfolio](https://berkdisli.github.io/react-portfolio/)
-
 <div align="center">
   <a href="https://github.com/berkdisli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berkdisli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
